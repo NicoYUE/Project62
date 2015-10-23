@@ -35,5 +35,33 @@ On prédira les résultats en fonction des cluster avoisinant.
 Densité de touristes autour d'une station = Nombre de photo sur un périmètre x Geoposition 
 
 	
+-------
+
+23/10
+
+PRESENTATION
+
+-Un résumé de votre projet
+-Les choses faites, restant à faire en s'appuyant sur un planning clair. Vous pouvez présenter les éventuelles déviations par rapport à ce qui était prévu au début de votre projet.
+-Les problèmes rencontrés et les solutions trouvées ou envisagées
+-Les risques identifiés pour la suite et la fin du projet
+-Un résumé de votre avancement par rapport à la valorisation
+
+1.Introduction 
+
+Reprendre le contexte et problématique du Cahier des Charges
+
+2. Contenu
+
+Structure globale front-end back-end du projet (HTML/CSS, JS, PHP, R, SQL ...)
+Utiliser la première partie de ce Readme pour expliquer nos choix de technologies
+Montrer notre carte avec les stations 
+
+
+3.
+
+Donner nos idées sur comment avancer dans le projet
+Metro + Rer eventuellement
+Evoquer nos idées de data viz et aussi celle de Jacquot
 
     
