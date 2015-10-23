@@ -51,7 +51,7 @@ PRESENTATION
 
 Reprendre le contexte et problématique du Cahier des Charges
 
-2. Contenu
+2.Contenu
 
 Structure globale front-end back-end du projet (HTML/CSS, JS, PHP, R, SQL ...)
 Utiliser la première partie de ce Readme pour expliquer nos choix de technologies
