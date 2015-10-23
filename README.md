@@ -22,7 +22,7 @@ _____
 
 Lorsque l'utilisateur se connectera, il verra la carte du Grand Paris avec la Layer Arrondissement placé dessus par défaut.
 Il pourra choisir parmis tout les choix proposées : ajouter un layer ou placer des conditions.
-
+ 
 Les conditions sont des études de données et seront afficher directement sur la carte pour visualiser celle-ci (touriste en Printemps etc... Nationalité)
 
 ____
