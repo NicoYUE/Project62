@@ -30,6 +30,10 @@ On fera d'abord des conditions simple que l'on clusterise afin de les positionne
 
 On pourra ensuite faire des conditions avec des études plus approfondi tel que, le constat que des touristes canadiens prennent souvent des photos de la Tour Eiffel près de tel gare alors que les chinois préfèrent la prendre d'un autre positionnement.
 On prédira les résultats en fonction des cluster avoisinant.
+
+
+Densité de touristes autour d'une station = Nombre de photo sur un périmètre x Geoposition 
+
 	
 
     
