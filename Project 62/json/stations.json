@@ -1469,7 +1469,7 @@
          "properties":{
             "ID":"225437",
             "STATION":"ASNIERES-GENNEVILLIERS",
-            "CITY":"Asnière-Sur-Seine",
+            "CITY":"Asnièòe-Sur-Seine",
             "QUARTER":"0",
             "TRAFIC":"5000000",
             "LINES":"13",
@@ -2001,7 +2001,7 @@
          "properties":{
             "ID":"1898",
             "STATION":"CRETEIL-PREFECTURE",
-            "CITY":"Créteil",
+            "CITY":"Créôeil",
             "QUARTER":"",
             "TRAFIC":"4349228",
             "LINES":"8",
@@ -2875,7 +2875,7 @@
          "properties":{
             "ID":"1899",
             "STATION":"CRETEIL-UNIVERSITE",
-            "CITY":"Créteil",
+            "CITY":"Créôeil",
             "QUARTER":"",
             "TRAFIC":"3395813",
             "LINES":"8",
@@ -4224,7 +4224,7 @@
          "properties":{
             "ID":"397629",
             "STATION":"CRETEIL-POINTE DU LAC",
-            "CITY":"Créteil",
+            "CITY":"Créôeil",
             "QUARTER":"",
             "TRAFIC":"2384761",
             "LINES":"8",
@@ -4281,7 +4281,7 @@
          "properties":{
             "ID":"1897",
             "STATION":"CRETEIL-L'ECHAT",
-            "CITY":"Créteil",
+            "CITY":"Créôeil",
             "QUARTER":"",
             "TRAFIC":"2361971",
             "LINES":"8",
@@ -5719,6 +5719,165 @@
                48.8471813581933
             ]
          }
-      }
+      },
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Saint-Denis Pleyel",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.346557324181513, 48.917703537411285 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Stade de France",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.36266559746599, 48.918113803058858 ] 
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Mairie d'Aubervilliers",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.380741212518076, 48.914215800385691 ] 
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Fort d'Aubervilliers",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.404409083293502, 48.914949759946865 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Drancy - Bobigny",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.428922375080462, 48.914828694558913 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Bobigny-Pablo Picasso",
+      "LINES":"4-5",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.449213578828974, 48.906626981364177 ]
+   }
+},
+
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Pont de Bondy",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.469979626381405, 48.904698779902837 ]
+   }
+},
+
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION": "Bondy",
+      "LINES":"",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates":  [ 2.479781038888539, 48.894032955999776 ] 
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Rosny-Bois-Perrier",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.481421257327278, 48.882304006648667 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Val de Fontenay",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.488898952576865, 48.854191510016847 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Nogent Le Perreux",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.494188055319934, 48.839341941878239 ]
+   }
+},
+{
+   "type":"Feature",
+   "properties":{
+      "ID":" ",
+      "STATION":"Champigny-Centre",
+      "LINES":"15est",
+      "COLORS":"#A71116"
+   },
+   "geometry":{
+      "type":"Point",
+      "coordinates": [ 2.502050537800828, 48.816205152103869 ] 
+   }
+}
+
    ]
 }
