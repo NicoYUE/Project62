@@ -1,0 +1,100 @@
+#map {
+    height: 37rem;
+    width: 52.5rem;
+}
+
+.mapbox {
+    width: 52.5rem;
+    position: relative;
+}
+
+.mapbox .overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    pointer-events: visible;
+}
+
+.mapbox .switch {
+    position: absolute;
+    right: 0;
+    pointer-events: visible;
+}
+
+.layout-slider {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 100%;
+}
+
+body {
+    font: 13px sans-serif;
+}
+
+/*style for dashbord*/
+rect:hover {
+    fill: blue;
+}
+
+.axis {
+    font: 10px sans-serif;
+}
+
+.legend tr {
+    border-bottom: 1px solid grey;
+}
+
+.legend tr:first-child {
+    border-top: 1px solid grey;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    display: none;
+}
+
+.legend {
+    margin-bottom: 76px;
+    display: inline-block;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+.legend td {
+    padding: 4px 5px;
+    vertical-align: bottom;
+}
+
+.legendFreq, .legendPerc {
+    align: right;
+    width: 50px;
+}
+
+#progress {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    left: 400px;
+    top: 300px;
+    width: 200px;
+    height: 20px;
+    margin-top: -20px;
+    margin-left: -100px;
+    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 4px;
+    padding: 2px;
+}
+
+#progress-bar {
+    width: 0;
+    height: 100%;
+    background-color: #76A6FC;
+    border-radius: 4px;
+}
